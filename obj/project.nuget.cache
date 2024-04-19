@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P20u3QOnYicuksPBPMkJN0A/FgvSLgIAHDYrUx3LsCR7VsobzhK2gKIQovG25n6ILz1AO1Ued5JbMR61qLWY4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poppi\\Documents\\Coding\\IFN563\\Assessment2\\TreblecrossGame\\TreblecrossGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poppi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
